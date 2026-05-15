@@ -1,2 +1,2 @@
-# DSA-ARRAY
+#DSAARRAY
 Practice leetcode questions
